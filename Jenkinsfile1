@@ -5,8 +5,8 @@ pipeline {
         maven 'maven3'
     }
     parameters {
-         string(name: 'tomcat_stag', defaultValue: '3.82.229.70', description: 'Node1-Remote Staging Server')
-         string(name: 'tomcat_prod', defaultValue: '34.228.220.67', description: 'Node2-Remote Production Server')
+         string(name: 'tomcat_stag', defaultValue: '34.228.220.67', description: 'Node1-Remote Staging Server')
+         string(name: 'tomcat_prod', defaultValue: '3.82.229.70', description: 'Node2-Remote Production Server')
     }
 
     triggers {
