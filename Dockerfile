@@ -16,5 +16,5 @@
 
 FROM tomcat:8-jre8 
 MAINTAINER "Vcube"
-COPY ./target/jpetstore.war /usr/local/tomcat/webapps
+COPY ./jpetstore.war /usr/local/tomcat/webapps
 EXPOSE 8080 
