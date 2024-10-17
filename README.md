@@ -9,6 +9,9 @@ csacnsa
 [![License](https://img.shields.io/:license-apache-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 ![mybatis-jpetstore](https://mybatis.org/images/mybatis-logo.png)
+andbnbs
+asmcnbmsansa
+sacnmsamacsmsa cm
 
 JPetStore 6 is a full web application built on top of MyBatis 3, Spring 5 and Stripes.
 
